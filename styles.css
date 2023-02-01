@@ -1,0 +1,42 @@
+h1{
+    color: lightslategray;
+    font-size: 20px;
+}
+
+h2{
+    color: plum;
+}
+body {
+    font-family: sans-serif;
+}
+
+.contact{
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+
+}
+header{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+ header img{
+    padding: 5px;
+ }
+footer p{
+    background-color: rgb(167, 135, 173);
+}
+nav a{
+    font-size: 20px;
+    color: white;
+    border-radius: 8px;
+    background-color: lightgray;
+    border: 3px solid lightgray;
+    text-decoration: none;
+}
+
+.product{
+    background-color: rgb(141, 200, 214);
+    border-radius: 10px;
+    
+}
